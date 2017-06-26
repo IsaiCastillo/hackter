@@ -1,0 +1,17 @@
+19/06/17
+
+
+ EL HTML ES EL ESQUELETO DE LA PAG SON ETIQUETAS < >
+EJ <HTML>. siempre debe cerrarse la etiqueta 
+<HEAD>
+AQUI SE ESCRIBE EL TITULO DE LA PAG ES LA CABEZA
+<BODY>
+este es el cuerpo de la pag donde se pone todo lo queva a llevar
+ej <h1> bienvenidos al curso <h1>
+    <h2> mi nombre es isai castillo<h2>
+     <p> es el parrafo, aquise escribe ya todo lo que hay que escribir em la pagina 
+h1 es titulo y h2 es subtitulo
+
+TODO SE CIERRA CON LA MISMA CLAVE PERO CON UN ``SLASH`` ``/``
+
+EL HTML CON CSS ES LA ESTRUCTURA DE LA PAGINA PERO EN SU APARIECIA

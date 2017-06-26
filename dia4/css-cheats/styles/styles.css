@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+div {
+  background-color: yellow;
+  color: blue;
+}
+div > div {
+  background-color: red;
+}
+
+body > div:nth-child(3) {
+  background-color: green;
+}
+
+.clasesupergenial {
+  background-color: black;
+}
+
+.clasesupergenial {
+  background-color: pink;
+}
+
+#idsupermegacool {
+  background-color: orange;
+}
+
+.otraclase {
+  height: 400px;
+}
+
+div[palabra] {
+  background-color: cyan;
+}

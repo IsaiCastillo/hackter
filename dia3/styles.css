@@ -1,0 +1,99 @@
+body {
+  margin 0;
+  padding 0;
+  font-family: arial, sans-serif;
+  font-size: 13px;
+}
+
+img {
+  display: block;
+  width: 400px;
+  height: auto;
+  margin: 0 auto;
+}
+
+
+
+input {
+  width: 300px;
+  height: 40px;
+  margin: 1.5em, 0;
+  padding: 0 1em;
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 30px;
+}
+
+
+button {
+
+  height: 30px;
+  line-height: 27px;
+  background-color: #f2f2f2;
+  border: 1px solid #f2f2f2;
+  border-radius: 2px;
+  color: #757575;
+  cursor: default;
+  font-size: 13px;
+  font-weight: bold;
+  margin: 11px 4px;
+  min-width: 54px;
+  padding: 0 16px;
+  text-align: center;
+
+}
+
+footer {
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  background: #f2f2f2;
+  border-top: 1px solid #e4e4e4;
+  line-height: 20px;
+}
+
+footer > ul {
+display: inline-block;
+margin: 0 1em;
+}
+
+footer > ul:last-child {
+  float: right;
+}
+
+header {
+  float: right;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline-block;
+  margin: 0 3px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+header {
+  text-align: right;
+}
+header > ul {
+  line-height: 24px;
+outline: none;
+vertical-align: middle;
+  display: inline-block;
+}
+a, a:visited {
+  color: #222;
+  text-decoration: none;
+
+}
+a:hover {
+  text-decoration: underline;
+}
+main {
+  margin-top: 100px;
+  text-align: center;
+}
